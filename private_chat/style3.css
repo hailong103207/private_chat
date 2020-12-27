@@ -1,0 +1,41 @@
+.body{
+    margin: 0px;
+    font-family: 'Segoe UI';
+}
+#hD2 {
+    width:auto;
+    height: 880px;
+    margin: 0px;
+    background-color: #272626;
+}
+  
+  #rectangle {
+    width: 318px;
+    height: 538px;
+    border-radius: 10px;
+    background: rgba(255,0,0,0.59);
+  }
+  
+  
+  #background {
+    width: 23px;
+    height: 23px;
+  }
+  
+  #shape {
+    width: 22.08px;
+    height: 21.14px;
+    background: #ffffff;
+  }
+  .text{
+    height: 29px;
+    color: #ffffff;
+    font-family: "Segoe UI";
+    font-size: 22px;
+    font-weight: 300;
+    line-height: 29px;
+  }
+  .icon-image{
+      width: 29px;
+      height: 29px;
+  }
